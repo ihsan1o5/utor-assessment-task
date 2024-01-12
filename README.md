@@ -1,9 +1,9 @@
 # utor-assessment-task
 
-## Installation on you local
-
 # Requirements
 Python 3.10
+
+## Installation on you local
 
 # Without docker
 Pull the code to you local and follow these steps
